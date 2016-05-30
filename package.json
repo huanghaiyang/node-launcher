@@ -1,0 +1,19 @@
+{
+  "name": "node-launcher",
+  "version": "1.0.0",
+  "description": "node启动器",
+  "main": "index.js",
+  "bin": "bin/node-launcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.oneapm.me/huanghaiyang/node-launcher.git"
+  },
+  "keywords": [
+    "node-launcer"
+  ],
+  "author": "huanghaiyang",
+  "license": "MIT"
+}
